@@ -1,0 +1,17 @@
+{
+  "name": "charttask",
+  "version": "1.0.0",
+  "description": "MongoDB Interactions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "angular-chart.js": "^1.1.1",
+    "express": "^4.16.2",
+    "mongojs": "^2.4.1"
+  },
+  "author": "Santhosh",
+  "license": "ISC"
+}
